@@ -1,0 +1,11 @@
+Model Information:
+* title:	IT-707 Integrator Step Light LED Surface Mount
+* source:	https://sketchfab.com/3d-models/it-707-integrator-step-light-led-surface-mount-c09794ca3b1f4836b010c451f607e3cc
+* author:	step-light (https://sketchfab.com/step-light)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IT-707 Integrator Step Light LED Surface Mount" (https://sketchfab.com/3d-models/it-707-integrator-step-light-led-surface-mount-c09794ca3b1f4836b010c451f607e3cc) by step-light (https://sketchfab.com/step-light) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
