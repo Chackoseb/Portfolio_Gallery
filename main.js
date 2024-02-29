@@ -84,12 +84,12 @@ camera.add(listener); // Add listener to the camera
 const audioLoader = new THREE.AudioLoader();
 const sound = new THREE.Audio(listener); // Create an audio object
 
-audioLoader.load('./assets/music1.mp3', (buffer) => {
-  sound.setBuffer(buffer);
-  sound.setLoop(true); // Set to loop the sound
-  sound.setVolume(2); // Set volume
-  sound.play();
-});
+// audioLoader.load('./assets/music1.mp3', (buffer) => {
+//   sound.setBuffer(buffer);
+//   sound.setLoop(true); // Set to loop the sound
+//   sound.setVolume(2); // Set volume
+//   sound.play();
+// });
 
 
 
