@@ -78,11 +78,11 @@ wall_lamp();
 ghost();
 
 
-const listener = new THREE.AudioListener();
+//const listener = new THREE.AudioListener();
 camera.add(listener); // Add listener to the camera
 
-const audioLoader = new THREE.AudioLoader();
-const sound = new THREE.Audio(listener); // Create an audio object
+//const audioLoader = new THREE.AudioLoader();
+//const sound = new THREE.Audio(listener); // Create an audio object
 
 // audioLoader.load('./assets/music1.mp3', (buffer) => {
 //   sound.setBuffer(buffer);
