@@ -79,7 +79,7 @@ ghost();
 
 
 //const listener = new THREE.AudioListener();
-camera.add(listener); // Add listener to the camera
+//camera.add(listener); // Add listener to the camera
 
 //const audioLoader = new THREE.AudioLoader();
 //const sound = new THREE.Audio(listener); // Create an audio object
