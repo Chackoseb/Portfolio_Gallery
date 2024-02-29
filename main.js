@@ -228,7 +228,7 @@ for (const artwork of artworks) {
   const texture = new THREE.TextureLoader().load(artwork.image);
 
 
-  const material = new THREE.MeshPhongMaterial({ map: texture, color: 0xffffff,  shininess: 30, roughness: 10, emissive: 50 });
+  const material = new THREE.MeshPhongMaterial({ map: texture, color: 0xffffff,  shininess: 30, emissive: 50 });
   const plane5 = new THREE.Mesh(geometry, material);
 
   // Position and rotate the plane on the wall
